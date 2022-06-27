@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Args containing '\\n'": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\path\\with\\n\\andmore"
+    }
+  }
+}
